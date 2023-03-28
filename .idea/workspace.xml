@@ -42,6 +42,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -67,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679913681485</updated>
-      <workItem from="1679913682726" duration="5779000" />
+      <workItem from="1679913682726" duration="6034000" />
+      <workItem from="1679994172474" duration="793000" />
     </task>
     <servers />
   </component>
