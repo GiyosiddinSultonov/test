@@ -4,5 +4,6 @@ public class najottalim {
         System.out.println("welcome to github");
         System.out.println("G'iyosiddin");
         System.out.println("Sultonov");
+        System.out.println("G'afurjonuvich");
     }
 }
